@@ -1,0 +1,5 @@
+module Task1_Shapes
+typeinfo appTask1_Shapes.qmltypes
+prefer :/qt/qml/Task1_Shapes/
+Main 1.0 Main.qml
+

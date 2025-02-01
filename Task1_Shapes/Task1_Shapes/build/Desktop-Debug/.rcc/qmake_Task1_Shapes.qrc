@@ -1,0 +1,6 @@
+<RCC>
+  <qresource prefix="/qt/qml/Task1_Shapes">
+    <file alias="qmldir">/home/yara/ITI_Embedded/Qt_Tasks/Task1_Shapes/build/Desktop-Debug/Task1_Shapes/qmldir</file>
+  </qresource>
+</RCC>
+
