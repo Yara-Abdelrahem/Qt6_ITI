@@ -1,0 +1,6 @@
+<RCC>
+  <qresource prefix="/qt/qml/Buttons_Images">
+    <file alias="qmldir">/home/yara/ITI_Embedded/Qt_Tasks/Qt6_ITI/Buttons_Images/build/Desktop-Debug/Buttons_Images/qmldir</file>
+  </qresource>
+</RCC>
+

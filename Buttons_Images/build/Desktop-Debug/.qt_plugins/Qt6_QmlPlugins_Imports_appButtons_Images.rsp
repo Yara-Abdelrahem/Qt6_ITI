@@ -1,0 +1,14 @@
+-rootPath
+/home/yara/ITI_Embedded/Qt_Tasks/Qt6_ITI/Task2_images/Buttons_Images
+-cmake-output
+-output-file
+/home/yara/ITI_Embedded/Qt_Tasks/Qt6_ITI/Buttons_Images/build/Desktop-Debug/.qt_plugins/Qt6_QmlPlugins_Imports_appButtons_Images.cmake
+-importPath
+/home/yara/ITI_Embedded/Qt_Tasks/Qt6_ITI/Buttons_Images/build/Desktop-Debug/Buttons_Images
+-importPath
+/home/yara/ITI_Embedded/Qt_Tasks/Qt6_ITI/Buttons_Images/build/Desktop-Debug
+-importPath
+/home/yara/ITI_Embedded/Qt/6.5.3/gcc_64/./qml
+-qrcFiles
+/home/yara/ITI_Embedded/Qt_Tasks/Qt6_ITI/Buttons_Images/build/Desktop-Debug/.rcc/qmake_Buttons_Images.qrc
+/home/yara/ITI_Embedded/Qt_Tasks/Qt6_ITI/Buttons_Images/build/Desktop-Debug/.rcc/appButtons_Images_raw_qml_0.qrc

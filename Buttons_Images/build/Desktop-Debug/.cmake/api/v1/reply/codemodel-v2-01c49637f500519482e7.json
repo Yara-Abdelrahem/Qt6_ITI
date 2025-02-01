@@ -1,0 +1,169 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Debug-b87c09f62a3925046f8b.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11,
+						12
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "Buttons_Images",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11,
+						12
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "all_qmllint::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-all_qmllint-Debug-e955077bee9b3c5fa199.json",
+					"name" : "all_qmllint",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "all_qmllint_json::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-all_qmllint_json-Debug-1338ce245e3744c4ea1e.json",
+					"name" : "all_qmllint_json",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "all_qmllint_module::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-all_qmllint_module-Debug-7b16ee9d7554b5973f84.json",
+					"name" : "all_qmllint_module",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "all_qmltyperegistrations::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-all_qmltyperegistrations-Debug-dbbb17571984864b89ad.json",
+					"name" : "all_qmltyperegistrations",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appButtons_Images::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appButtons_Images-Debug-93aae6b461907a512b0d.json",
+					"name" : "appButtons_Images",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appButtons_Images_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appButtons_Images_autogen-Debug-e97ab0d187b2b6cf5b3e.json",
+					"name" : "appButtons_Images_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appButtons_Images_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appButtons_Images_autogen_timestamp_deps-Debug-315620a572422483428c.json",
+					"name" : "appButtons_Images_autogen_timestamp_deps",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appButtons_Images_qmlimportscan::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appButtons_Images_qmlimportscan-Debug-dbf6f69addd65f29912e.json",
+					"name" : "appButtons_Images_qmlimportscan",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appButtons_Images_qmllint::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appButtons_Images_qmllint-Debug-b7a98962038258b55e61.json",
+					"name" : "appButtons_Images_qmllint",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appButtons_Images_qmllint_json::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appButtons_Images_qmllint_json-Debug-9d4a6707e3d3622d350c.json",
+					"name" : "appButtons_Images_qmllint_json",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appButtons_Images_qmllint_module::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appButtons_Images_qmllint_module-Debug-be853b53ffb5b87202d9.json",
+					"name" : "appButtons_Images_qmllint_module",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appButtons_Images_qmltyperegistration::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appButtons_Images_qmltyperegistration-Debug-575d5d87a4e582fb8a3d.json",
+					"name" : "appButtons_Images_qmltyperegistration",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appButtons_Images_tooling::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appButtons_Images_tooling-Debug-2a3b8902e1789eadd602.json",
+					"name" : "appButtons_Images_tooling",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/home/yara/ITI_Embedded/Qt_Tasks/Qt6_ITI/Buttons_Images/build/Desktop-Debug",
+		"source" : "/home/yara/ITI_Embedded/Qt_Tasks/Qt6_ITI/Task2_images/Buttons_Images"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 7
+	}
+}
