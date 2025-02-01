@@ -1,5 +1,0 @@
-module Buttons_Images
-typeinfo appButtons_Images.qmltypes
-prefer :/qt/qml/Buttons_Images/
-Main 1.0 Main.qml
-

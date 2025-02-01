@@ -1,7 +1,0 @@
-<RCC>
-  <qresource prefix="/qt/qml/Buttons_Images/">
-    <file alias="Main.qml">/home/yara/ITI_Embedded/Qt_Tasks/Qt6_ITI/Task2_images/Buttons_Images/Main.qml</file>
-    <file alias="res.qrc">/home/yara/ITI_Embedded/Qt_Tasks/Qt6_ITI/Task2_images/Buttons_Images/res.qrc</file>
-  </qresource>
-</RCC>
-
