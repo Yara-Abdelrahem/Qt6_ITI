@@ -31,7 +31,7 @@ Window {
                 id: image1Id
                 source: "file:mountain.jpg"
                 width: 300
-                height: 200
+                height: 150
                 visible: img1_click
             }
             Text {
@@ -51,8 +51,6 @@ Window {
                 }
             }
         }
-
-
         //Load image from full path
         Item{
         width: 320
