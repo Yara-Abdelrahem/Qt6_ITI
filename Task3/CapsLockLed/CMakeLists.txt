@@ -27,6 +27,8 @@ qt_add_qml_module(appCapsLockLed
         SOURCES
         SOURCES capslock.h capslock.cpp
         SOURCES systemmonitor.h systemmonitor.cpp
+        QML_FILES Led_page.qml
+        QML_FILES Temp_page.qml
 )
 
 # Qt for iOS sets MACOSX_BUNDLE_GUI_IDENTIFIER automatically since Qt 6.1.
