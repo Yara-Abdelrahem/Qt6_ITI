@@ -7,6 +7,13 @@ ApplicationWindow {
     height: 480
     visible: true
     title: qsTr("PC Status")
+
+    Image {
+        source: "qrc:/images/background12.jpg"  // Replace with your image path
+        anchors.fill: parent
+        fillMode: Image.PreserveAspectCrop
+    }
+
     StackView {
         id: stackView1
         anchors.fill: parent

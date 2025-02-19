@@ -13,8 +13,8 @@ Item {
         Image {
             id: led_img
             source: isCaps ? "qrc:/images/led_on.png" : "qrc:/images/led_off.png"
-            width: 100
-            height: 80
+            width: 80
+            height: 70
         }
 
         Button {
